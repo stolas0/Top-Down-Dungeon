@@ -1,2 +1,2 @@
 # top-down-dungeon
-A 2D study game project
+A study 2D game project
